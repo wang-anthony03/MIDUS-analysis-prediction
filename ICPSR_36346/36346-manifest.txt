@@ -1,0 +1,171 @@
+File Manifest for ICPSR 36346
+
+Ryff, Carol, David Almeida, John Ayanian, Neil Binkley, Deborah S. Carr,
+Christopher Coe, Richard Davidson, Joseph Grzywacz, Arun Karlamangla,
+Robert Krueger, Margie Lachman, Gayle Love, Marsha Mailick, Daniel Mroczek,
+Barry Radler, Teresa Seeman, Richard Sloan, Duncan Thomas, Maxine
+Weinstein, and David Williams. Midlife in the United States (MIDUS 3),
+2013-2014 . ICPSR36346-v7. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2019-04-30.
+http://doi.org/10.3886/ICPSR36346.v7
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36346-descriptioncitation.pdf       -       -         -       2019-04-30  -
+
+    36346-related_literature.txt        -       -         -       daily       -
+
+    36346-manifest.txt                  -       -         -       daily       -
+
+    36346-Documentation-midus_readme.pdf -       -         -       2019-04-30  fadc9d3d34e35024f6b97bbbe341396b
+
+    36346-Report-field_report.pdf       -       -         -       2019-04-30  ac454c8b3bab11d232515b2065f5df9f
+
+    36346-Zipped_package.zip            -       -         -       2019-04-30  58ce1c249b74047cbb4f02b5892a0fc4
+
+
+DS0001 Aggregate Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36346-0001-Codebook-aggregate_data.pdf -       -         -       2019-04-30  a7b9190edb0dde44d5e2252fb58a02ff
+
+    36346-0001-Codebook-midus_ddi.pdf   -       -         -       2019-04-30  a1aba5feb52fa37fac526be36d50133a
+
+    36346-0001-Data.dta                 -       3,294     2613    2019-04-30  e190848fc69b993694e5c98894260661
+
+    36346-0001-Data.rda                 -       3,294     2613    2019-04-30  6ff1289f484a1e539a4432ca78185161
+
+    36346-0001-Data.sav                 -       3,294     2613    2019-04-30  c62b5b7f300f5ee3398f23b6a017073c
+
+    36346-0001-Data.stc                 -       3,294     2613    2019-04-30  c6f7bbdebd099274bc78fd9293171328
+
+    36346-0001-Data.tsv                 -       3,294     2613    2019-04-30  3dd0cf741b15177de5bd78e6c48ff329
+
+    36346-0001-Data.txt                 6468    3,294     2613    2019-04-30  7c98b1a30ba11718c35abeb2eac94a26
+
+    36346-0001-Documentation-constructs.pdf -       -         -       2019-04-30  52fb4b764584317ded5e05349b7eaec6
+
+    36346-0001-Documentation-naming_coding.pdf -       -         -       2019-04-30  ad8fb4486ff7699cc6d840175520bddf
+
+    36346-0001-Documentation-weights.pdf -       -         -       2019-04-30  9232c5fd906df7c254ec59c26e8a7230
+
+    36346-0001-Questionnaire-saq.pdf    -       -         -       2019-04-30  01d80c6876cbbeafc36f8ae0227729e3
+
+    36346-0001-Questionnaire-telephone_interview.pdf -       -         -       2019-04-30  8e7d6f9fac4d1d91e92009812a656664
+
+    36346-0001-Setup.dct                -       -         -       2019-04-30  626bf0b3fbc42390ff2fd165035dd42f
+
+    36346-0001-Setup.do                 -       -         -       2019-04-30  680eb3e006231940dec02464f413fccd
+
+    36346-0001-Setup.sas                -       -         -       2019-04-30  7010da48497656965db154f026e47b40
+
+    36346-0001-Setup.sps                -       -         -       2019-04-30  f17ea860c0cb9edb7ba57f3122ddb2f1
+
+    36346-0001-Supplemental_syntax.do   -       -         -       2019-04-30  19b166089cc50d047868c37bb10909fd
+
+    36346-0001-Supplemental_syntax.sas  -       -         -       2019-04-30  feba6e236306200cbceefc1d89c01caf
+
+
+DS0002 Disposition Codes
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36346-0002-Codebook-disposition_codes.pdf -       -         -       2019-04-30  44b48fa7f36a317f42b3254fe667ff18
+
+    36346-0002-Data.dta                 -       7,108     6       2019-04-30  6ac12cb2afcdb5890260738ac7f683e2
+
+    36346-0002-Data.rda                 -       7,108     6       2019-04-30  c90b11902d0c9a4b7aa5d844e231fdab
+
+    36346-0002-Data.sav                 -       7,108     6       2019-04-30  31e86aca14ca11eef6e031ff0ebff51a
+
+    36346-0002-Data.stc                 -       7,108     6       2019-04-30  ab65f4cc186622f2826c0e8d41c0a1c5
+
+    36346-0002-Data.tsv                 -       7,108     6       2019-04-30  488e0478d5629902add863d24035491a
+
+    36346-0002-Data.txt                 16      7,108     6       2019-04-30  0dffcf981e50004bfdd1e036b90b4b5f
+
+    36346-0002-Setup.dct                -       -         -       2019-04-30  9e72686862255a79010a8a66a7501b25
+
+    36346-0002-Setup.do                 -       -         -       2019-04-30  f2885e7074e5c314bb5f98f952b96238
+
+    36346-0002-Setup.sas                -       -         -       2019-04-30  1c82cf7fadccc1bf24d83c9faaea7742
+
+    36346-0002-Setup.sps                -       -         -       2019-04-30  f205dbf528d12caad44bfeb7c30b5c51
+
+    36346-0002-Supplemental_syntax.do   -       -         -       2019-04-30  30097d8181e6dbed491c438555b4145e
+
+    36346-0002-Supplemental_syntax.sas  -       -         -       2019-04-30  0c31e26d1d296b85e1c5a3976698e876
+
+
+DS0003 Coded Text Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36346-0003-Codebook-coded_text.pdf  -       -         -       2019-04-30  7f991916ecaf520d503be1ef34e7eff0
+
+    36346-0003-Data.dta                 -       3,137     183     2019-04-30  f856dff846d3ea80b07059c9b926d87b
+
+    36346-0003-Data.rda                 -       3,137     183     2019-04-30  8cae1edb65f04f2e6fc3bd5ffee1ffe9
+
+    36346-0003-Data.sav                 -       3,137     183     2019-04-30  f29816346f4905a82316537be5c45b15
+
+    36346-0003-Data.stc                 -       3,137     183     2019-04-30  54a1001b633318a06e71c044f7651219
+
+    36346-0003-Data.tsv                 -       3,137     183     2019-04-30  0e9c51cce1497e7839e963b491acf5a4
+
+    36346-0003-Data.txt                 415     3,137     183     2019-04-30  778ab9253427f267ac1ef7ef91b756ac
+
+    36346-0003-Documentation-coded_text.pdf -       -         -       2019-04-30  e0ce7d1533fafe72a9d9f1e621bacb21
+
+    36346-0003-Setup.dct                -       -         -       2019-04-30  a4bec373b41e1d7cd30256e9aedfdea4
+
+    36346-0003-Setup.do                 -       -         -       2019-04-30  08cb570ed0d87957990c08501f1bd5dd
+
+    36346-0003-Setup.sas                -       -         -       2019-04-30  2a0d07498e54b05e9977ff612644e115
+
+    36346-0003-Setup.sps                -       -         -       2019-04-30  e80795c232be281e3cfe647691937daa
+
+    36346-0003-Supplemental_syntax.do   -       -         -       2019-04-30  a76d63efecaf37d18093a84a5b0fed89
+
+    36346-0003-Supplemental_syntax.sas  -       -         -       2019-04-30  4b65e2cecfec1957972830214133c564
+
+
+Version History
+
+2019-04-30 <p>This collection has been updated to include new data supplied
+by the P.I.  The resupplied data includes new cases for the Self-
+Administered Questionnaire (SAQ) as part of the MIDUS M3 re-fielding effort
+undertaken to increase participant completion during 2015 fielding.  The
+re-fielding cases can be identified and/or filtered with C1STATUS or the
+new M3RE_FILTER variables. Ten post-stratification weight variables
+(C1PWGHT1 through C1PWGHT10), and a new occupation variable based on
+Standard Occupation Classification system, have been added to the Aggregate
+dataset. Documentation has been updated accordingly.  For more detailed
+information, please refer to the P.I.'s README file.</p> <p>The Mortality
+dataset has been removed from this collection and is a separate study,
+Midlife in the United States (MIDUS3): Mortality Data, 2016 (ICPSR 37237).
+</p> <p>The datasets have been renumbered:</p> <list type="bulleted">
+<itm>Dataset 1: Aggregate Data</itm> <itm>Dataset 2: Disposition
+Codes</itm> <itm>Dataset 3: Coded Text Data</itm> </list>  2017-11-21 This
+collection is being updated, per request from the PI, to reflect a title
+change; the corresponding downloadable files are only being updated to
+reflect the title change, where applicable.  2017-03-09 The coded text data
+set has been added. Additionally, the MIDUS 3 Readme documentation has been
+updated.  2016-03-10 The MIDUS 3 Readme documentation has been updated.
+2016-03-07 The documents that were previously combined to create the User
+Guide have been filtered into the Pyschsocial Constructs and Composite
+Variables and the Naming and Coding Conventions documents. The documents
+combined to create the questionnaire documentation have been separated into
+the MIDUS 3 Telephone Interview and the MIDUS 3 Self-Administered
+Questionnaire (SAQ).  2016-02-29 The fully-processed collection is being
+released.

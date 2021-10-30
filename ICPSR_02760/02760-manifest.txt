@@ -1,0 +1,212 @@
+File Manifest for ICPSR 2760
+
+Brim, Orville Gilbert, Paul B. Baltes, Larry L. Bumpass, Paul D. Cleary,
+David L. Featherman, William R. Hazzard, Ronald C. Kessler, Margie E.
+Lachman, Hazel Rose Markus, Michael G. Marmot, Alice S. Rossi, Carol D.
+Ryff, and Richard A. Shweder. Midlife in the United States (MIDUS 1), 1995-
+1996. ICPSR02760-v19. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2020-09-28.
+http://doi.org/10.3886/ICPSR02760.v19
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    02760-descriptioncitation.pdf       -       -         -       2021-06-28  -
+
+    02760-related_literature.txt        -       -         -       daily       -
+
+    02760-manifest.txt                  -       -         -       daily       -
+
+    02760-Documentation-readme.pdf      -       -         -       2020-09-28  76ffd7d747a662e0568605cae4332fc8
+
+    02760-Documentation-sampdesc.pdf    -       -         -       2019-03-25  262a23b838c6dc63ea582569d93d7d12
+
+
+DS0001 Main, Siblings and Twin Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    02760-0001-Codebook-ICPSR.pdf       -       -         -       2019-09-09  704ca821f364df250dbbdccf49aa62f1
+
+    02760-0001-Data.dta                 -       7,108     2098    2019-09-09  aeb9b14d797e73c63ed10010087f4329
+
+    02760-0001-Data.rda                 -       7,108     2098    2019-09-09  0db79fbd0864e7c3292f9a7fcce621c7
+
+    02760-0001-Data.sav                 -       7,108     2098    2019-09-09  a0a4b1a9405266550ac7c83aa7d08934
+
+    02760-0001-Data.stc                 -       7,108     2098    2019-09-09  b5e7054df87df816f18f769f2ffe9f2c
+
+    02760-0001-Data.tsv                 -       7,108     2098    2019-09-09  d46dc19153ad28f7c7b9f65bd30b2220
+
+    02760-0001-Data.txt                 7685    7,108     2098    2019-09-09  4eae4099372179f97fd8be9edd096199
+
+    02760-0001-Documentation-age.pdf    -       -         -       2019-04-18  a16199a95281cbe9ae70b3786da20065
+
+    02760-0001-Documentation-convars.pdf -       -         -       2019-04-18  758fa31ca41717ce3e0e71981f08138f
+
+    02760-0001-Documentation-occup.pdf  -       -         -       2019-04-18  69cb15cf03d2f39442794626920d2963
+
+    02760-0001-Documentation-scales.pdf -       -         -       2019-04-18  e22f388ceaf43fe74848a6e0d5710b7c
+
+    02760-0001-Documentation-techrpt.pdf -       -         -       2019-04-18  60dbc6526373973a3bc9902c83985e07
+
+    02760-0001-Documentation-techrpt_method_MULTI.pdf -       -         -       2019-04-18  2104452ba9019fc7b9f8e656d0432d71
+
+    02760-0001-Documentation-weights.pdf -       -         -       2019-04-18  78f85d5984bb43de588a4f744f0808ca
+
+    02760-0001-Questionnaire-phone.pdf  -       -         -       2019-03-25  0e36d820ada4e2a08712cde7270582be
+
+    02760-0001-Questionnaire-saq.pdf    -       -         -       2019-03-25  573d1cb77471f7e91c670783ab84de45
+
+    02760-0001-Setup.dct                -       -         -       2019-09-09  4d0d148869db53504b02cb18c1aed1aa
+
+    02760-0001-Setup.do                 -       -         -       2019-09-09  8533619aa93e0fda7b6fa9647ad186e9
+
+    02760-0001-Setup.sas                -       -         -       2019-09-09  52ed514561bedf7a42a1a3f080f2047e
+
+    02760-0001-Setup.sps                -       -         -       2019-09-09  024f3a88344664182c614830a853eb46
+
+    02760-0001-Supplemental_syntax.do   -       -         -       2019-09-09  5eb4d1fc5154c35c91d3b7ba0afb17e2
+
+    02760-0001-Supplemental_syntax.sas  -       -         -       2019-09-09  a5898b25ac04696a4571e8f41944c09d
+
+    02760-0001-Zipped_package-midusxml.zip -       -         -       2019-03-25  9183dcbd4a82f838d6ca461390a3f28a
+
+
+DS0002 Twin Screener Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    02760-0002-Codebook-ICPSR.pdf       -       -         -       2020-09-28  2712ac305ea0f54d46e2e0468e8ae86a
+
+    02760-0002-Codebook-midus_ddi.pdf   -       -         -       2020-09-28  c24259150498c05fb5669e5ded9f99a6
+
+    02760-0002-Data.dta                 -       1,914     81      2020-09-28  2b0a2c29e3bdbbea2be60bfdc67be955
+
+    02760-0002-Data.rda                 -       1,914     81      2020-09-28  5e3650ee77d18583f8f27dd7bd1699fa
+
+    02760-0002-Data.sav                 -       1,914     81      2020-09-28  2b1e0a25a7d14cda78b42105e41ab12f
+
+    02760-0002-Data.stc                 -       1,914     81      2020-09-28  1968343cd6361fd78629a52772372d27
+
+    02760-0002-Data.tsv                 -       1,914     81      2020-09-28  5f164e00779054d8c6d9c78a8b6a0c86
+
+    02760-0002-Data.txt                 183     1,914     81      2020-09-28  29a5c720ce8f448e8a606cbfa578fe43
+
+    02760-0002-Documentation-summary.pdf -       -         -       2020-09-28  9e0b9098e82ade12cec098bf85ebfd72
+
+    02760-0002-Questionnaire-twinscr.pdf -       -         -       2020-09-28  48f3048be87e01100ec15f3363e50a8f
+
+    02760-0002-Setup.dct                -       -         -       2020-09-28  00a10e2301e010419a053bd06d657222
+
+    02760-0002-Setup.do                 -       -         -       2020-09-28  72cf4bf2834eb9f0095dbb1ee7f819c1
+
+    02760-0002-Setup.sas                -       -         -       2020-09-28  73a19b904c5e5c08f3e4b53c0bba28ab
+
+    02760-0002-Setup.sps                -       -         -       2020-09-28  b0fe3ec6000b7084aac35b34315b1701
+
+    02760-0002-Supplemental_syntax.do   -       -         -       2020-09-28  4d0b96eb2d6d652b2be98e9cd121bfd2
+
+    02760-0002-Supplemental_syntax.sas  -       -         -       2020-09-28  84d3fe421d857c28e98a3d6d798e7a48
+
+    02760-0002-Zipped_package-midusxml.zip -       -         -       2020-09-28  5be921755c5b5402ada6f9872f9b00a1
+
+
+DS0003 Coded Text Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    02760-0003-Codebook-ICPSR.pdf       -       -         -       2020-09-28  8cece058292808a6112b2027d7640692
+
+    02760-0003-Data.dta                 -       3,950     82      2020-09-28  a6c665ffffa669c6a0275af617747845
+
+    02760-0003-Data.rda                 -       3,950     82      2020-09-28  a06db8d028a61700487e44ce8ea4cac3
+
+    02760-0003-Data.sav                 -       3,950     82      2020-09-28  80e18d2b748f424b6f459bc4585db09b
+
+    02760-0003-Data.stc                 -       3,950     82      2020-09-28  0b24a33f9e4af6f40e98deaeb1151c40
+
+    02760-0003-Data.tsv                 -       3,950     82      2020-09-28  20e8a431b0a1294ab1bcb9ed699abadd
+
+    02760-0003-Data.txt                 167     3,950     82      2020-09-28  29283e2cf7212285cfdaaf806379111f
+
+    02760-0003-Documentation-coded_text.pdf -       -         -       2020-09-28  75a73f33c6f8fd2a6ee268b7f0d4f2ce
+
+    02760-0003-Setup.dct                -       -         -       2020-09-28  b9ea19dd40560e9f747aa4e06b23f70e
+
+    02760-0003-Setup.do                 -       -         -       2020-09-28  1a75c5a7bbe9ba57e6cd4b7e46d118f0
+
+    02760-0003-Setup.sas                -       -         -       2020-09-28  fbafaa532d868b1901b34f9129a22047
+
+    02760-0003-Setup.sps                -       -         -       2020-09-28  acb2d8eb1993dd1abc975e937fe28179
+
+    02760-0003-Supplemental_syntax.do   -       -         -       2020-09-28  c7af946b7ba517fdf10e51752dac6aa5
+
+    02760-0003-Supplemental_syntax.sas  -       -         -       2020-09-28  9f13be04511b8109d0b1d045d961897a
+
+
+Version History
+
+2020-09-28 The Twin Screener Data (DS2) has been updated to replace a
+previous version. The codebook and questionnaire for the Twin Screener Data
+has also been updated. The Readme file for this study has been updated to
+reflect these changes.  2019-09-09 Dataset numbers have been updated.
+Dataset 1 is the same, while what were previously Datasets 4 and 5 are now
+Datasets 2 and 3.  2019-08-05 The twin screener questionnaire for Twin
+Screener Data (DS4) has been updated to replace a previous version.  2019-
+04-18 Added weighting documentation back to study, applying only to dataset
+1.  2019-03-25 Intensive curation was completed on the "Main, Siblings, and
+Twin Data" (Dataset 1), "Twin Screener Data" (Dataset 4), and "Coded Text
+Data" (Dataset 5) to include question text and updated documentation.
+Datasets 1, 4, and 5 were then merged together by the SU_ID variable to
+form "Merged Data with Weights (Online Analysis Only)" (Dataset 6) for
+online analysis capabilities.  2019-02-04 The Main, Siblings, and Twin
+dataset (Dataset 1) and related documentation were updated with resupplied
+files from the P.I to reflect changes made to age variables. These data are
+being zipped to facilitate early access to users for research purposes.
+2018-12-20 Updated versions of the Main, Siblings, and Twin dataset
+(Dataset 1) and Twin Screener Data (Dataset 4) were provided by the P.I. An
+additional dataset, Coded Text Data (Dataset 5) was also added. These data
+are being zipped to facilitate early access to users for research purposes.
+2017-11-16 This collection is being updated, per request from the PI, to
+reflect a title change; the corresponding downloadable files are only being
+updated to reflect the title change, where applicable.  2016-04-11 The
+Technical Report and the Technical Report on Methodology have been updated
+to correspond with the appropriate datasets.  2016-03-23 The Documentation
+of Scales and Constructed Variables in MIDUS 1 has been updated to
+accurately reflect the appropriate wave of the MIDUS study. The version
+number for this collection has also been updated to correspond with the
+number of updates to this collection.  2011-10-25 The document titled DDI
+codebook has been renamed Codebook.  2011-02-18 The study documentation has
+been updated. The Main, Siblings, and Twin dataset (Dataset 0001) has been
+updated to include updated and new variables that reflect the MIDUS II data
+(ICPSR 4652). Additionally, the Twin Screener data (Dataset 0004) has been
+updated to include missing value assignments. Lastly, a .xml file and
+corresponding .pdf codebook have been added to the collection.  2010-01-06
+Additional documentation, MIDUS Sample Descriptions, has been added.  2009-
+10-09 Minor editing changes were made to the metadata record.  2009-04-16
+Twin Screener Data has been added to this collection as Part 4.  2007-04-16
+The three separate subsample datasets (Main, Sibling, Twin) have been
+joined into one master dataset. The three primary subsamples are identified
+by a variable called SAMPLMAJ. A new ID system (the variable is called
+M2ID) has been added to the data which allow the aggregation of the three
+subsamples. This system also allows longitudinal merging between datasets.
+A variety of deductive disclosure problems have been fixed. There were also
+erroneous and empty variables in the datasets, all of which have been
+fixed. Documentation has been updated to reflect these changes. All MIDUS-
+related data files are linkable via a variable called M2ID.  2006-03-30
+File QU2760.ALL.PDF was removed from any previous datasets and flagged as a
+study-level file, so that it will accompany all downloads.  2003-06-09 The
+SAS transport files for Parts 2-6, have been replaced because the original
+versions contained an illegal file name embedded within them, which
+prevented the files from being properly read by the SAS system.  2000-02-01
+The SAS transport file for Part 1, Main Data, has been replaced because the
+original version contained an incorrect number of cases.
